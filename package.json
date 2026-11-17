@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "latex.js": "^0.12.6",
-    "mathjax": "^4.1.3"
-  }
-}
